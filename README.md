@@ -64,4 +64,3 @@ Align resource allocation with beneficiary load and performance gaps.
 # Conclusion
 This project demonstrates an end-to-end analytics workflow using Excel for data preprocessing and Power BI for advanced visualization and analysis. The insights generated highlight enrollment trends, operational disparities, and areas requiring targeted intervention. The combined use of Excel and Power BI enables scalable, data-driven monitoring and continuous improvement of women and child development programs.
 
-This project demonstrates an end-to-end analytics workflow using Excel for data preprocessing and Power BI for advanced visualization and analysis. The insights generated highlight enrollment trends, operational disparities, and areas requiring targeted intervention. The combined use of Excel and Power BI enables scalable, data-driven monitoring and continuous improvement of women and child development programs.
